@@ -1,0 +1,3 @@
+color = "rojo"
+print('hola')
+
