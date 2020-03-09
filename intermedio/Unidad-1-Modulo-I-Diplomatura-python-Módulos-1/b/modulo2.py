@@ -1,3 +1,0 @@
-color = "rojo"
-print('hola')
-

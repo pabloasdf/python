@@ -1,3 +1,0 @@
-import mi_paquete
-mi_paquete.sub_paquete1.modulo_sub1_a
-mi_paquete.sub_paquete1.modulo_sub1_a.main()
